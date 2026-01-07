@@ -15,7 +15,7 @@ Tenho interesse em aprender e aplicar boas práticas de desenvolvimento, aprimor
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/alexsanderneneve">
+    <a href="www.linkedin.com/in/alexsanderneneve/">
         <img 
             alt="linkedin" 
             title="Meu Linkedin" 
