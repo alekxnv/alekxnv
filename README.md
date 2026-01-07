@@ -1,7 +1,6 @@
 # 👨‍💻 Alexsander Neneve
 
-**`Estudante de Engenharia de Software | Desenvolvedor em formação
-`**
+**`Estudante de Engenharia de Software | Desenvolvedor em formação`**
 
 Sou estudante de Engenharia de Software, atualmente em processo de formação, com foco no desenvolvimento de habilidades em programação e na construção de software por meio de estudos contínuos e projetos práticos.
 
